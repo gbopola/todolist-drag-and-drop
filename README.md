@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="https://github.com/gbopola/todolist-drag-and-drop/blob/master/screencapture-localhost-3000-2022-04-11-15_38_20.png" width="600" />
+<img src="https://github.com/gbopola/todolist-drag-and-drop/blob/master/screencapture-localhost-3000-2022-04-11-15_38_20.png" width="800" />
 
 ### Links
 
