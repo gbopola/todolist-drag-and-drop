@@ -30,6 +30,8 @@ Users should be able to:
 
 ### Screenshot
 
+<img src="https://github.com/gbopola/todolist-drag-and-drop/blob/master/screencapture-localhost-3000-2022-04-11-15_38_20.png" width="600" />
+
 ### Links
 
 - Live Site URL: [https://6250889e63e51100b9e7212a--creative-souffle-fde186.netlify.app/](https://6250889e63e51100b9e7212a--creative-souffle-fde186.netlify.app/)
