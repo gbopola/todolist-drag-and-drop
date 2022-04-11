@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Live Site URL: [https://6250889e63e51100b9e7212a--creative-souffle-fde186.netlify.app/](https://6250889e63e51100b9e7212a--creative-souffle-fde186.netlify.app/)
-- Solution URL: [https://github.com/gbopola/countries-app](https://github.com/gbopola/countries-app)
+- Solution URL: [https://github.com/gbopola/todolist-drag-and-drop](https://github.com/gbopola/todolist-drag-and-drop)
 
 ## My process
 
